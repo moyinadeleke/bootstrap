@@ -1,0 +1,108 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+#Send {
+    margin-top: 70px;
+    justify-content: center;
+    text-align: center;
+}
+
+#Send h1 {
+    font-size: 50px;
+}
+
+#Send h2 {
+    font-size: 16px;
+}
+
+#Send h3 {
+    font-size: 12px;
+}
+
+#Hero {
+   width: 100%;
+    
+}
+
+#HIW {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#HIW h1 {
+    margin-bottom: 40px;
+}
+
+#card {
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+#card p {
+    font-size: 13px;
+}
+
+#card .img-fluid {
+    margin-left: 300px;
+}
+
+#card .s1 {
+    background-color: rgb(150, 216, 150);
+}
+
+#card .s2 {
+    background-color: rgb(173, 173, 199);
+}
+
+#card .s3 {
+    background-color: rgb(199, 199, 68);
+}
+
+#wealth {
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+
+#wealth .card {
+    width: 1200px;
+    border-radius: 12px;
+    background-color: white;
+    padding-left: 40px;
+}
+
+#Ireland {
+    height: 700px;
+    background-image: url(/src/ireland.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 53% 16px;
+    background-color: rgb(71, 71, 163);
+    margin-top: 30px;
+}
+
+#Ireland .Irish {
+    padding-top: 90px;
+    padding-left: 60px;
+}
+
+#questions {
+    margin-top: 70px;
+    margin-left: 70px;
+    margin-bottom: 80px;
+}
+
+#questions h2 {
+    font-size: 14px;
+    padding-bottom: 30px;
+}
+
+#Footer {
+    background-color: black;
+}
+
+#Footer a {
+    color: white;
+}
